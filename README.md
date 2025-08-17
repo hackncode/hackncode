@@ -5,9 +5,9 @@
 </p>
 
 ## About Me
-🔒 **S ecurity Engineer | Penetration Tester | CTF Player **  
+🔒 **Security Engineer | Penetration Tester | CTF Player**  
 🎯 **5+ years of experience** in Product, Cloud & Infrastructure Security.  \
-🚀 Seeking **Full-Time Roles** in Application Security, Red Teaming, Penetration Testing, and Security Engineering. \
+🚀 Seeking **Full-Time Roles** in Application Security, Cloud Security, Red Teaming, Penetration Testing, and Security Engineering. \
 🌱 Exploring **Offensive Security Engineering** and **Secure System Design**. \
 ⚡ Skilled in **Multi-Cloud Security**, **Python**, and **Shell Scripting**.  
 
