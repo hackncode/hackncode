@@ -5,9 +5,8 @@
 </p>
 
 ## About Me
-🔒 **Product Security Engineer | Penetration Tester | CTF Player**  
-🎯 **5+ years of experience** in Product, Cloud & Infrastructure Security.  
-🎓 **Master's in Cybersecurity @ NYU** (Graduating May 2025)  
+🔒 **S ecurity Engineer | Penetration Tester | CTF Player **  
+🎯 **5+ years of experience** in Product, Cloud & Infrastructure Security.  \
 🚀 Seeking **Full-Time Roles** in Application Security, Red Teaming, Penetration Testing, and Security Engineering. \
 🌱 Exploring **Offensive Security Engineering** and **Secure System Design**. \
 ⚡ Skilled in **Multi-Cloud Security**, **Python**, and **Shell Scripting**.  
@@ -40,7 +39,8 @@
 ## Profile Stats
 
 🌱 **Profile Views**  
-![Visitors](https://profile-counter.glitch.me/hackncode/count.svg?align=center)
+
+![👀](https://komarev.com/ghpvc/?username=hackncode&abbreviated=true)
 
 [![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
